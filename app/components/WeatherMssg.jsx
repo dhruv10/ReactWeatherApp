@@ -5,7 +5,7 @@ var WeatherMssg = (props) => {
   	return(
 
           <div>
-           <h2>It's {temp} in {location}</h2>
+           <h2>It's {temp} degree celsius in {location}</h2>
           </div>
 
   		);
