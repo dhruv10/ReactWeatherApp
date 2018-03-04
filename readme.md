@@ -8,9 +8,6 @@ You can view this project hosted on heroku.
 I have built this project for my practise. I have learned about React basics, Webpack
 & Foundation Framework.
 
-## Screenshots
-Adding soon.
-
 ## Tech/framework used
 
 <b>Built with</b>
