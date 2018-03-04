@@ -1,5 +1,8 @@
-##React Weather Application
+
+# ReactWeatherApp
 This is a weather application build on ReactJS. It fetches weather by city name.
+You can view this project hosted on heroku. 
+[ReactWeatherApp](http://ancient-caverns-50128.herokuapp.com/)
 
 ## Motivation
 I have built this project for my practise. I have learned about React basics, Webpack
@@ -42,4 +45,4 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 Open Weather Map API to search for weather data by city name.
 
 ## License
-MIT © [dhruv10]()
+MIT 
