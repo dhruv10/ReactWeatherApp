@@ -22,6 +22,7 @@ module.exports = {
     resolve:{
       root:__dirname,
       alias:{
+
         Main: 'app/components/Main.jsx',
         Nav: 'app/components/Nav.jsx' ,
         Weather: 'app/components/Weather.jsx',
@@ -29,7 +30,8 @@ module.exports = {
         WeatherMssg: 'app/components/WeatherMssg.jsx',
         About: 'app/components/About.jsx',
         Examples: 'app/components/Examples.jsx',
-        openWeatherMap: 'app/api/openWeatherMap.jsx'
+        openWeatherMap: 'app/api/openWeatherMap.jsx',
+        ErrModal: 'app/components/ErrModal.jsx'
        
       },
       
