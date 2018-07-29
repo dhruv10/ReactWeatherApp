@@ -5,7 +5,7 @@ You can view this project hosted on heroku.
 [ReactWeatherApp](http://ancient-caverns-50128.herokuapp.com/)
 
 ## Motivation
-I have built this project for my practise. I have learned about React basics, Webpack
+I have built this project for my practise. I have learned about React basics.
 & Foundation Framework.
 
 ## Tech/framework used
@@ -22,10 +22,6 @@ To get started, first install all the necessary dependencies.
 > npm install
 ```
 
-Run an initial webpack build
-```
-> webpack
-```
 
 Start the development server (changes will now update live in browser)
 ```
