@@ -1,6 +1,6 @@
 
 # ReactWeatherApp
-This is a weather application build on ReactJS. It fetches weather by city name.
+This is a weather application build on ReactJS. It fetches the weather of a city just by city name.
 You can view this project hosted on heroku. 
 [ReactWeatherApp](http://ancient-caverns-50128.herokuapp.com/)
 
